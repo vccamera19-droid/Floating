@@ -1,0 +1,47 @@
+[
+  {
+    "Device Id": "9f33a75302554dd2",
+    "username": "cmtool",
+    "password": "1234",
+    "expiry": "2035-10-15"
+  },
+  {
+    "Device Id": "749f4cf9956bcf80",
+    "username": "abc",
+    "password": "1000",
+    "expiry": "2026-09-29",
+    "paymentUSD": 18,
+    "paymentBDT": 0,
+    "allowoffline": false
+  },
+  {
+    "username": "Abir11",
+    "Device Id": "10ca2b6428bb5e10",
+    "password": "Abir@1",
+    "expiry": "2028-02-02",
+    "paymentUSD": 100,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Cmt1",
+    "Device Id": "78313c79c5ad0d14",
+    "password": "1111",
+    "expiry": "2027-02-02",
+    "paymentUSD": 0,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "DavidReyes11",
+    "Device Id": "efe3425f0206cc0c",
+    "password": "DavidReyes@1",
+    "expiry": "2027-02-02",
+    "paymentUSD": 57,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
+  }
+]
