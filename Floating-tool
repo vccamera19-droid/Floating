@@ -15,33 +15,21 @@
     "allowoffline": false
   },
   {
-    "username": "Abir11",
-    "Device Id": "10ca2b6428bb5e10",
-    "password": "Abir@1",
-    "expiry": "2028-02-02",
-    "paymentUSD": 100,
-    "paymentBDT": 0,
-    "allowoffline": false,
-    "blocked": false
+    "Device Id": "9f335302554d2",
+    "username": "cmol",
+    "password": "1234",
+    "expiry": "2035-10-15"
   },
-  {
-    "username": "Cmt1",
-    "Device Id": "78313c79c5ad0d14",
-    "password": "1111",
-    "expiry": "2027-02-02",
-    "paymentUSD": 0,
-    "paymentBDT": 0,
-    "allowoffline": false,
-    "blocked": false
+{
+    "Device Id": "9f33a7530254dd2",
+    "username": "col",
+    "password": "1234",
+    "expiry": "2035-10-15"
   },
-  {
-    "username": "DavidReyes11",
-    "Device Id": "efe3425f0206cc0c",
-    "password": "DavidReyes@1",
-    "expiry": "2027-02-02",
-    "paymentUSD": 57,
-    "paymentBDT": 0,
-    "allowoffline": false,
-    "blocked": false
+{
+    "Device Id": "9f33a753024dd2",
+    "username": "cmol",
+    "password": "1234",
+    "expiry": "2035-10-15"
   }
 ]
